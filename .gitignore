@@ -1,0 +1,11 @@
+
+#react
+## dependencies
+/node_modules
+
+## production
+/build
+/dist
+
+### VS Code ###
+.vscode/
